@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TodoCorona/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/TodoCorona/static/js/main.bc50c4e3.chunk.js",
+    "main.js.map": "/TodoCorona/static/js/main.bc50c4e3.chunk.js.map",
+    "runtime-main.js": "/TodoCorona/static/js/runtime-main.4e64434a.js",
+    "runtime-main.js.map": "/TodoCorona/static/js/runtime-main.4e64434a.js.map",
+    "static/js/2.55d41aad.chunk.js": "/TodoCorona/static/js/2.55d41aad.chunk.js",
+    "static/js/2.55d41aad.chunk.js.map": "/TodoCorona/static/js/2.55d41aad.chunk.js.map",
+    "index.html": "/TodoCorona/index.html",
+    "precache-manifest.0ff05f987df6ea8921b9491c16443c40.js": "/TodoCorona/precache-manifest.0ff05f987df6ea8921b9491c16443c40.js",
+    "service-worker.js": "/TodoCorona/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/TodoCorona/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.55d41aad.chunk.js.LICENSE.txt": "/TodoCorona/static/js/2.55d41aad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e64434a.js",
+    "static/js/2.55d41aad.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.bc50c4e3.chunk.js"
+  ]
+}
